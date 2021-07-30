@@ -1,14 +1,7 @@
 {
-  "name": "laffey-chan",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "MlleLaffeyChan",
-  "license": "ISC",
-  "dependencies": {
-    "discord.js": "^12.5.3"
-  }
+	"name": "laffey-chan",
+	"version": "1.0.0",
+	"description": "Un bot Discord qui contient des commandes utiles pour le RolePlay en mode texte.",
+	"license": "MIT",
+	"author": "𝓐𝔂𝓪 <ayafubuki@outlook.fr>"
 }
